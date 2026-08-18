@@ -2,7 +2,7 @@
 # The server picks up any file in here that defines PATH and handle().
 # Files starting with _ are ignored, so this one never becomes an endpoint.
 
-PATH = "yaser"
+PATH = "/yaser"
 
 def handle():
     return {
