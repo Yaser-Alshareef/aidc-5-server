@@ -2,7 +2,7 @@
 # The server picks up any file in here that defines PATH and handle().
 # Files starting with _ are ignored, so this one never becomes an endpoint.
 
-PATH = "https://github.com/Yaser-Alshareef"
+PATH = "AmrAlghamidi"
 
 def handle():
     return {
