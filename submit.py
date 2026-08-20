@@ -5,7 +5,7 @@ import json, urllib.request, urllib.error
 BOARD = "https://aidc.nadir.sh/model"
 
 TEAM = "5"
-BY = "Yaser Alshareef"
+BY = "Yaser Alshareef And Amr Algamidi"
 IMAGE = "ghcr.io/yaser-alshareef/aidc-5-server:latest"
 
 
